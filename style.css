@@ -1,0 +1,15 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
